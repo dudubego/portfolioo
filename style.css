@@ -1,0 +1,25 @@
+/* Estilo para as novas seções */
+h3 {
+    color: #333;
+    margin-top: 2em;
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.5em;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
